@@ -26,7 +26,7 @@
 https://documenter.getpostman.com/view/11391576/2s8YzWSM91#e3dec71f-7dff-45ce-bc4a-b481a4f12b7d
 
 ## Deployment
-https://hys-fe-course-api.vercel.app/
+https://hys-fe-course-api-two.vercel.app/
 
 ## Description
 
